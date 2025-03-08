@@ -95,4 +95,4 @@ async def main(task: str):
 
 
 if __name__ == "__main__":
-    asyncio.run(main("I want to know my saving and investment account balances."))
+    asyncio.run(main("I want the sum of my saving and investment account balances."))
